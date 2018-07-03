@@ -1,6 +1,6 @@
-# Project Title
+# Opencv Projects
 
-One Paragraph of project description goes here
+Opencv is the best open source computer vision library avaiable. Even thought deep learning as over taken opencv in many areas we still use opencv in application as it the faster than pytorch or pillow. Here we will install and explore many application and inbuild libraies of opencv
 
 ## Getting Started
 
@@ -8,10 +8,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+
 
 ```
-Give examples
+Anaconda , manages Python environment and dependencies
 ```
 
 ### Installing
