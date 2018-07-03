@@ -1,6 +1,6 @@
 # Opencv Projects
 
-Opencv is the best open source computer vision library avaiable. Even thought deep learning as over taken opencv in many areas we still use opencv in application as it the faster than pytorch or pillow. Here we will install and explore many application and inbuild libraies of opencv
+Opencv is the best open source computer vision library available. Even though deep learning as over taken opencv in many areas we still use opencv in application as it the faster than pytorch or pillow. Here we will install and explore many application and inbuild libraies of opencv
 
 ## Getting Started
 
